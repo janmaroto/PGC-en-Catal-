@@ -1,0 +1,942 @@
+10.  Capital 
+100.  Capital social 
+1000.  Capital subscrit  cooperatiu: aportacions  obligatòries 
+1001.  Capital subscrit cooperatiu: aportacions voluntàries 
+1002.  Capital subscrit cooperatiu: socis col·laboradors i associats o adherits 
+10020.  Socis col·laboradors 
+10021.  Associats o adherits  
+101.  Fons social 
+102.  Capital 
+103.  Socis per desemborsaments   no exigits 
+1030. Socis per desemborsa-ments no exigits, capital social 
+1034. Socis per desemborsa-ments no exigits, capital pendent d’inscripció  
+104.  Socis per aportacions no dineràries pendents 
+1040. Socis per aportacions no dineràries pendents, capital social 
+1044. Socis per aportacions no dineràries pendents, capital pendent d’inscripció 
+107.  Fons de participació i altres de subordinats amb venci-ment en la liquidació 
+1070. Fons de participacions amb venciment en la liquidació 
+1071. Altres fons subordinats amb venciment en la liquidació 
+108.  Accions o participacions prò-pies en situacions especials 
+109.  Accions o participacions pròpies per a reducció  de capital 
+11.  Reserves i altres  instruments de  patrimoni 
+110.  Prima d’emissió o assumpció 
+111.  Altres instruments de patri-moni net 
+1110. Patrimoni net per emissió d’instruments financers compostos 
+1111. Resta d’instruments de patrimoni net 
+112.  Fons de reserva obligatori  
+1121. Fons de reserva obligatori per aplicació d’excedents 
+1122.  Fons de reserva obligatori per quotes d’ingrés  
+1123. Fons de reserva obligatori per deduccions 
+113.  Reserves voluntàries 
+1131. Fons de reserva voluntari irrepartible  
+1132. Fons de reserva voluntari repartible  
+114.  Reserves especials 
+1140. Reserves per a accions o participacions de la societat dominant 
+1141. Reserves estatutàries 
+1142. Reserva per capital amortitzat 
+1143. Reserva per fons de comerç 
+1144. Reserves per accions pròpi-es acceptades en garantia 
+115.  Reserves per pèrdues  i guanys actuarials i altres ajustos 
+116.  Fons de reembossament o actualització i revaloració d’actius  
+1161. Fons de reembossament o actualització  
+11610. Fons per incorpo- ració de beneficis 
+11611. Fons per revaloració  d’actius 
+118.  Aportacions de socis o propi-etaris 
+1181.  Aportacions de socis per compensar pèrdues 
+119.  Diferències per ajust del capital a euro 
+12.  Resultats pendents d’aplicació 
+120.  Romanent 
+121.  Resultats negatius d’exerci-cis anteriors  
+129.  Excedent cooperatiu 
+13.  Subvencions,  donacions i ajustos per canvi de valor 
+130.  Subvencions oficials de capital 
+131.  Donacions i llegats de capital 
+132.  Altres subvencions,  donacions i llegats 
+133.  Ajustos per valoració en actius financers disponibles per a la venda 
+134.  Operacions de cobertura 
+1340. Cobertura de fluxos d’efectiu 
+1341. Cobertura d’una inversió neta en un negoci a l’estranger 
+135.  Diferències de conversió 
+136.  Ajustos per valoració en 
+actius no corrents i grups alienables d’elements, man-tinguts per a la venda 
+137.  Ingressos fiscals a distribuir en diversos exercicis 
+1370. Ingressos fiscals per dife-rències permanents a distribuir en diversos exercicis  
+1371. Ingressos fiscals per deduccions i bonificacions a distribuir en diversos exercicis 
+14.  Provisions 
+140.  Provisió per retribucions a l/t al personal 
+141.  Provisió per a impostos 
+142.  Provisió per a altres respon-sabilitats 
+143.  Provisió per desmantella-ment, retirament o rehabili-tació de l’immobilitzat 
+145.  Provisió per a actuacions mediambientals 
+146.  Provisió per a reestructuraci-ons 
+147.  Provisió per transaccions amb pagaments basats en instruments de patrimoni 
+15.  Deutes a l/t amb  característiques especials 
+150.  Accions o participacions a l/t considerades passius financers 
+153.  Desemborsaments no exigits per accions o participacions considerades passius finan-cers 
+1533. Desemborsaments no exigits, EG 
+1534. Desemborsaments no exigits, EA 
+1535. Desemborsaments no exigits, altres parts vinculades 
+1536. Altres desemborsaments no exigits 
+154.  Aportacions no dineràries pendents per accions o participacions considerades passius financers 
+1543. Aportacions no dineràries pendents, EG 
+1544. Aportacions no dineràries pendents,  EA 
+1545. Aportacions no dineràries pendents, APV 
+1546. Altres aportacions no dineràries pendents 
+155.  Fons d’educació, formació  i promoció a l/t  
+1550. Fons d’educació, formació i promoció, saldo disposat a l/t 
+1551. Fons d’educació, formació i promoció, saldo no disposat a l/t 
+156.  «Capital» reembossable exigible a l/t  
+157.  Creditors per  «capital» temporal a l/t 
+16.  Deutes a l/t amb parts vinculades 
+160.  Deutes a l/t amb entitats  de crèdit vinculades 
+1603. Deutes a l/t amb entitats decrèdit, EG  
+1604. Deutes a l/t amb entitats de crèdit, EA 
+1605. Deutes a l/t amb altres entitats de crèdit vinculades 
+161.  Proveïdors d’immobilitzat  a l/t, parts vinculades 
+1613. Proveïdors d’immobilitzat a l/t, EG 
+1614. Proveïdors d’immobilitzat a l/t, EA 
+1615. Proveïdors d’immobilitzat a llarg termini, APV 
+162.  Creditors per arrendament fi-nancer a l/t, parts vinculades 
+1623. Creditors per arrendament financer a l/t, empreses de grup 
+1624. Creditors per arrendament financer a l/t, EA 
+1625. Creditors per arrendament financer a l/t, APV  
+163.  Altres deutes a l/t amb parts vinculades 
+1633. Altres deutes a l/t, EG 
+1634. Altres deutes a l/t, EA 
+1635. Altres deutes a l/t, amb APV 
+164.  Retorn cooperatiu a pagar  a l/t 
+167.  Altres participacions a l/t 
+17.  Deutes a l/t per prés-tecs rebuts, emprès-tits i altres conceptes 
+170.  Deutes a l/t amb entitats de crèdit 
+171.  Deutes a l/t 
+172.  Deutes a l/t transformables en subvencions, donacions  i llegats 
+173.  Proveïdors d’immobilitzat  a l/t 
+174.  Creditors per arrendament financer a  l/t 
+175.  Efectes a pagar a l/t 
+176.  Passius per derivats financers a l/t 
+1765. Passius per derivats finan-cers a l/t, cartera de negociació 
+1768. Passius per derivats financers a l/t, instruments de cobertura 
+177.  Obligacions i bons 
+178.  Obligacions i bons converti-bles 
+179.  Deutes representats en altres valors negociables 
+18.  Passius per fiances, garanties i altres conceptes a l/t
+180.  Fiances rebudes a l/t 
+181.  Avançaments rebuts per vendes o prestacions de serveis a l/t 
+185.  Dipòsits rebuts a l/t 
+189.  Garanties financeres a l/t 
+19.  Situacions transitò-ries de finançament 
+190.  Accions o participacions emeses 
+192.  Subscriptors d’accions 
+194.  Capital emès pendent d’ins-cripció 
+195.  Accions o participacions emeses considerades passius financers 
+197.  Subscriptors d’accions consi-derades passius financers 
+199.  Accions o participacions emeses considerades passius financers pendents d’inscripció
+2.  ACTIU NO CORRENT
+20.  Immobilitzacions intangibles
+200.  Recerca
+201.  Desenvolupament
+202.  Concessions administratives
+203.  Propietat industrial
+204.  Fons de comerç
+205.  Drets de traspàs
+206.  Aplicacions informàtiques
+209.  Avançaments per a immobi-litzacions intangibles
+21.  Immobilitzacions materials
+210.  Terrenys i béns naturals
+2101. Terrenys i béns naturals adscrits al FEFP
+211.  Construccions
+2111. Construccions adscrites al FEFP
+212.  Instal·lacions tècniques
+2121. Instal·lacions tècniques adscrites al FEFP
+213.  Maquinària
+2131. Maquinària adscrita al FEFP
+214.  Utillatge
+2141. Utillatge adscrit al FEFP
+215.  Altres instal·lacions
+2151. Altres instal·lacions  adscrites al FEFP
+216.  Mobiliari
+2161. Mobiliari adscrit al FEFP
+217.  Equips per a processos d’informació
+2171. Equips per a processos d’informació adscrits al FEFP
+218.  Elements de transport
+2181. Elements de transport adscrit al FEFP
+219.  Altre immobilitzat material
+2191. Altre immobilitzat material adscrit al FEFP
+22.  Inversions  immobiliàries
+220.  Inversions en terrenys i béns naturals
+2201. Inversions en terrenys i béns naturals adscrites al FEFP
+221.  Inversions en construccions
+2211. Inversions en construccions adscrites al FEFP
+23.  Immobilitzacions materials en curs
+230.  Adaptació de terrenys i béns naturals
+231.  Construccions en curs
+232.  Instal·lacions tècniques en muntatge
+233.  Maquinària en muntatge
+237.  Equips per a processos d’informació en muntatge
+239.  Avançaments per a immobi-litzacions materials
+24.  Inversions financeres a l/t en parts  vinculades
+240.  Participacions a l/t en parts  vinculades
+2403. Participacions a l/t en EG
+2404. Participacions a l/t en EA
+2405. Participacions a l/t en APV
+241.  Valors representatius de deu-te a l/t de parts vinculades 
+2413. Valors representatius de deute a l/t d’EG
+2414. Valors representatius de deute a l/t d’EA
+2415. Valors representatius de deute a l/t d’APV
+242.   Crèdits a l/t a parts vinculades 
+2423. Crèdits a l/t a EG
+2424. Crèdits a l/t a EA
+2425. Crèdits a l/t a APV
+2427. Crèdits amb socis per pèrdues a compensar a l/t
+249.  Desemborsaments pendents sobre participacions a l/t en parts vinculades
+2493. Desemborsaments pendents sobre participacions a l/t en EG
+2494. Desemborsaments pendents sobre participacions a l/t en EA
+2495. Desemborsaments pendents sobre participacions a l/t en APV
+25.  Altres inversions financeres a l/t
+250.  Inversions financeres a l/t en instruments de patrimoni
+251.  Valors representatius de deute a l/t
+252.  Crèdits a l/t
+253.  Crèdits a l/t per alienació d’immobilitzat
+254.  Crèdits a l/t al personal
+255.   Actius per derivats financers a l/t
+2550. Actius per derivats finan-cers a l/t, cartera de negociació
+2553. Actius per derivats finan-cers a llarg termini, instruments de cobertura 
+256.  Immobilitzat financer adscrit al FEFP
+257.  Drets de reemborsament derivats de contractes d’assegurança relatius a retribucions a l/t al personal
+258.  Imposicions a l/t
+259.  Desemborsaments pendents sobre participacions en el patrimoni net a l/t
+26.  Fiances i dipòsits constituïts a l/t
+260.  Fiances constituïdes a l/t
+265.  Dipòsits constituïts a l/t
+28.  Amortització acumu-lada de l’immobilitzat
+280.  Amortització acumulada de l’immobilitzat intangible
+2800. Amortització acumulada de recerca
+2801. Amortització acumulada de desenvolupament
+2802. Amortització acumulada de concessions administratives
+2803. Amortització acumulada de propietat industrial
+2805. Amortització acumulada de drets de traspàs
+2806. Amortització acumulada d’aplicacions informàtiques
+281.  Amortització acumulada  de l’immobilitzat material
+2811. Amortització acumulada de construccions
+28111. Amortització acumulada de construccions adscrites al FEFP
+2812. Amortització acumulada d’instal·lacions tècniques 
+28121. Amortitzacióacumulada d’instal·lacionstècniques  adscrites al FEFP
+2813. Amortització acumulada de maquinària
+28131. Amortització acumulada de maquinària   adscrita al FEFP
+2814. Amortització acumulada d’utillatge
+28141. Amortització      acumulada d’utillatge    adscrit al FEFP
+2815. Amortització acumulada d’altres instal·lacions
+28151. Amortització      d’altres instal·lacions     adscrites al FEFP
+2816. Amortització acumulada de mobiliari
+28161. Amortització      acumulada de mobiliari  adscrit al FEFP
+2817. Amortització acumulada d’equips per a processos d’informació
+28171. Amortització acumulada d’equips per a  processos d’informació  adscrits al FEFP
+2818. Amortització acumulada d’elements de transport
+28181. Amortització acumulada d’elements de  transport adscrits al FEFP
+2819. Amortització acumulada d’un altre immobilitzat material
+28191. Amortització acumulada d’un altre immobilitzat material    adscrit al FEFP
+282.  Amortització acumulada de les inversions immobiliàries
+29.  Deteriorament de valor d’actius no corrents
+290.  Deteriorament de valor de l’immobilitzat intangible 
+2900. Deteriorament de valor  de recerca
+2901. Deteriorament del valor  de desenvolupament
+2902. Deteriorament de valor  de concessions administratives
+2903. Deteriorament de valor  de propietat industrial
+2905. Deteriorament de valor  de drets de traspàs
+2906. Deteriorament de valor d’aplicacions informàtiques
+291.  Deteriorament de valor de l’immobilitzat material
+2910. Deteriorament de valor  de terrenys i béns naturals
+2911. Deteriorament de valor  de construccions
+2912. Deteriorament de valor d’instal·lacions tècniques
+2913. Deteriorament de valor  de maquinària
+2914. Deteriorament de valor d’utillatge
+2915. Deteriorament de valor d’altres instal·lacions
+2916. Deteriorament de valor  de mobiliari
+2917. Deteriorament de valor d’equips per a processos  d’informació
+2918. Deteriorament de valor d’elements de transport
+2919. Deteriorament de valor d’un altre immobilitzat material
+292.  Deteriorament de valor de les inversions immobiliàries
+2920. Deteriorament de valor dels terrenys i béns naturals
+2921. Deteriorament de valor  de construccions 
+293.  Deteriorament de valor de participacions a l/t en parts vinculades
+2933. Deteriorament de valor  de participacions a l/t en EG
+2934. Deteriorament de valor  de participacions a l/t en EA
+294.  Deteriorament de valor de valors representatius de deu-te a l/t de parts vinculades
+2943. Deteriorament de valor  de valors representatius de deute a l/t d’EG
+2944. Deteriorament de valor  de valors representatius de deute a l/t d’EA
+2945. Deteriorament de valor de valors representatius de deute a l/t d’APV
+295.   Deteriorament de valor de crèdits a l/t a parts vinculades
+2953. Deteriorament de valor  de crèdits a l/t a EG
+2954. Deteriorament de valor  de crèdits a l/t a EA
+2955. Deteriorament de valor  de crèdits a l/t a APV
+297.  Deteriorament de valor  de valors  representatius  de deute a l/t
+298.  Deteriorament de valor  de crèdits a l/t
+3.  EXISTÈNCIES
+30.  Comercials
+300.  Mercaderies A
+301.  Mercaderies B
+307.  Mercaderies adquirides a socis
+31.  Primeres matèries
+310.  Primeres matèries A
+311.  Primeres matèries B
+317.  Primeres matèries adquirides a socis
+32.  Altres aprovisiona-ments
+320.  Elements i conjunts  incorporables
+321.  Combustibles
+322.  Recanvis
+325.  Materials diversos
+326.  Embalatges
+327.  Envasos
+328.  Material d’oficina
+33.  Productes en curs
+330.   Productes en curs A
+331.  Productes en curs B
+34.  Productes semiacabats
+340.  Productes semiacabats A
+341.  Productes semiacabats B
+35.  Productes acabats
+350.  Productes acabats A
+351.  Productes acabats B
+36.  Subproductes, residus i materials recuperats
+360.  Subproductes A
+361.  Subproductes B
+365.  Residus A
+366.  Residus B
+368.  Materials recuperats A
+369.  Materials recuperats B
+39.  Deteriorament de va-lor de les existències
+390.  Deteriorament de valor  de les mercaderies
+391.  Deteriorament de valor  de les primeres matèries
+392.  Deteriorament de valor d’altres aprovisionaments
+393.  Deteriorament de valor  dels productes en curs
+394.  Deteriorament de valor  dels productes semiacabats
+395.  Deteriorament de valor  dels productes acabats
+396.  Deteriorament de valor dels subproductes, residus  i materials recuperats
+4.  CREDITORS I DEUTORS PER OPERACIONS COMERCIALS
+40.  Proveïdors
+400.  Proveïdors
+4000. Proveïdors (euros)
+4004. Proveïdors (moneda estrangera)
+4007. Proveïdors, socis  cooperatius
+4009. Proveïdors, factures pen-dents de rebre o de formalitzar
+401.  Proveïdors, efectes  comercials a pagar
+403.  Proveïdors, EG
+4030. Proveïdors, EG (euros)
+4031. Efectes comercials  a pagar, EG
+4034. Proveïdors, EG (moneda estrangera)
+4036. Envasos i embalatges  a tornar a proveïdors, EG
+4039. Proveïdors, EG, factures pendents de rebre o de formalitzar
+404.  Proveïdors, EA
+405.  Proveïdors, APV
+406.  Envasos i embalatges  a tornar a proveïdors
+407.  Avançaments a proveïdors
+41.  Creditors diversos
+410.  Creditors per prestacions  de serveis
+4100. Creditors per prestacions de serveis (euros)
+4104. Creditors per prestacions de serveis (moneda estrangera)
+4109. Creditors per prestacions de serveis, factures pendents  de rebre o de formalitzar
+411.  Creditors, efectes comercials a pagar
+419.  Creditors per operacions  en comú
+43.  Clients
+430.  Clients
+4300. Clients (euros)
+4304. Clients (moneda estrangera)
+4309. Clients, factures pendents de formalitzar
+431.  Clients, efectes comercials  a cobrar
+4310. Efectes comercials  en cartera
+4311. Efectes comercials  descomptats
+4312. Efectes comercials  en gestió de cobrament
+4315. Efectes comercials impagats
+432.  Clients, operacions  de facturatge
+433.  Clients, EG
+4330. Clients EG (euros)
+4331. Efectes comercials  a cobrar, EG
+4332. Clients EG, operacions  de facturatge
+4334. Clients EG (moneda estrangera)
+4336. Clients EG de cobrament dubtós
+4337. Envasos i embalatges  a tornar a clients, EG
+4339. Clients EG, factures  pendents de formalitzar
+434.  Clients, EA
+435.  Clients, APV
+436.  Clients de cobrament dubtós
+437.  Envasos i embalatges  a tornar per clients
+438.  Avançaments de clients
+44.  Deutors diversos
+440.  Deutors
+4400. Deutors (euros)
+4404. Deutors (moneda  estrangera)
+4409. Deutors, factures pendents de formalitzar
+441.  Deutors, efectes comercials  a cobrar
+4410. Deutors, efectes comercials en cartera
+4411. Deutors, efectes comercials descomptats
+4412. Deutors, efectes comercials en gestió de cobrament
+4415. Deutors, efectes comercials impagats
+446.   Deutors de cobrament dubtós
+447.  Socis deutors: crèdits  per operacions amb socis
+449.  Deutors per operacions  en comú
+46.  Personal
+460.   Avançaments de remuneracions
+465.  Remuneracions pendents  de pagament
+4651. Bestretes laborals  pendents de pagament
+466.  Remuneracions mitjançant sistemes d’aportació defini-da pendents de pagament
+47.  Administracions públiques
+470.  Hisenda pública, deutora  per diversos conceptes
+4700. Hisenda pública, deutora per IVA
+4708. Hisenda pública, deutora per subvencions concedides
+4709. Hisenda pública, deutora per devolució d’impostos
+471.  Organismes de la Seguretat Social, deutors
+472.  Hisenda pública, IVA suportat
+473.  Hisenda pública, retencions  i pagaments a compte
+474.  Actius per impost diferit
+4740. Actius per diferències temporànies deduïbles
+4742. Drets per deduccions  i bonificacions pendents d’aplicar
+4745. Crèdit per pèrdues  a compensar de l’exercici
+475.  Hisenda pública, creditora per conceptes fiscals
+4750. Hisenda pública, creditora per IVA
+4751. Hisenda pública, creditora per retencions practicades
+4752. Hisenda pública, creditora per impost sobre societats
+4758. Hisenda pública, creditora per subvencions a reintegrar
+476.  Organismes de la Seguretat Social, creditors
+477.  Hisenda pública, IVA  repercutit
+479.  Passius per diferències temporànies imposables
+48.  Ajustos per periodi-ficació
+480.  Despeses anticipades
+485.  Ingressos anticipats
+49.  Deteriorament  de valor de crèdits comercials i provi-sions a c/t
+490.  Deteriorament de valor de crèdits per operacions comercials
+493.  Deteriorament de valor de crèdits per operacions comercials amb parts  vinculades
+4933. Deteriorament de valor  de crèdits per operacions  comercials amb EG
+4934. Deteriorament de valor  de crèdits per operacions  comercials amb EA
+4935. Deteriorament de valor  de crèdits per operacions  comercials amb APV
+494.  Deteriorament de valor  de crèdits per operacions amb socis deutors
+499.  Provisions per operacions comercials
+4994. Provisió per contractes onerosos
+4999. Provisió per a altres  operacions comercials
+5.  COMPTES FINANCERS
+50.  Emprèstits, deutes amb característiques especials i altres emissions anàlogues a c/t
+500.  Obligacions i bons a c/t
+501.  Obligacions i bons  convertibles a c/t
+502.  Accions o participacions a c/t considerades passius financers
+503.  «Capital» reembossable exigible a c/t
+504.  Creditors per capital  temporal a c/t
+505.  Deutes representats en altres valors negociables a c/t
+506.  Interessos a c/t d’emprèstits i altres emissions anàlogues
+507.  Dividends d’accions o participacions considerades passius financers
+508.  Fons d’educació, formació  i promoció a c/t  
+5080. Fons d’educació, formació i promoció, saldo disposat a c/t
+5081. Fons d’educació, formació i promoció, saldo no disposat a c/t
+509.   Valors negociables amortitzats
+5090. Obligacions i bons amortitzats
+5091. Obligacions i bons  convertibles amortitzats
+5095. Altres valors negociables amortitzats
+51.  Deutes a c/t amb parts vinculades
+510.  Deutes a c/t amb entitats  de crèdit vinculades
+5103. Deutes a c/t amb entitats de crèdit, EG
+5104. Deutes a c/t amb entitats de crèdit, EA
+5105. Deutes a c/t amb altres entitats de crèdit vinculades
+511.  Proveïdors d’immobilitzat  a c/t, parts vinculades
+5113. Proveïdors d’immobilitzat a c/t, EG
+5114. Proveïdors d’immobilitzat a c/t, EA
+5115. Proveïdors d’immobilitzat a c/t, APV
+512.   Creditors per arrendament  financer a c/t, parts vinculades
+5123. Creditors per arrendament financer a c/t, EG
+5124. Creditors per arrendament financer a c/t, EA
+5125. Creditors per arrendament financer a c/t, APV
+513.  Altres deutes a c/t amb parts vinculades
+5133. Altres deutes a c/t amb EG
+5134. Altres deutes a c/t amb EA
+5135. Altres deutes a c/t amb APV
+514.  Interessos a c/t de deutes amb parts vinculades
+5143. Interessos a c/t de deutes, EG
+5144. Interessos a c/t de deutes, EA
+5145. Interessos a c/t de deutes, APV
+52.  Deutes a c/t per préstecs rebuts  i altres conceptes 
+520.  Deutes a c/t amb entitats  de crèdit
+5200. Préstecs a c/t d’entitats de crèdit
+5201. Deutes a c/t per crèdit disposat
+5208. Deutes per efectes descomptats
+5209. Deutes per operacions  de facturatge
+521.  Deutes a c/t
+522.  Deutes a c/t transformables en subvencions, donacions  i llegats
+523.   Proveïdors d’immobilitzat a c/t
+524.  Creditors per arrendament financer a c/t
+525.  Efectes a pagar a c/t
+526.   Retorn cooperatiu a pagar a c/t
+527.  Interessos a c/t de deutes amb entitats de crèdit
+528.  Interessos a c/t de deutes
+5281. Interessos a c/t de deutes amb socis 
+529.  Provisions a c/t
+5290. Provisió a c/t per retribuci-ons al personal
+5291. Provisió a c/t per a impostos
+5292. Provisió a c/t per a altres responsabilitats
+5293. Provisió a c/t per desman-tellament, retirament o rehabilita-ció de l’immobilitzat
+5295. Provisió a c/t per a actuaci-ons mediambientals
+5296. Provisió a c/t per a rees-tructuracions
+5297. Provisió a c/t per transac-cions amb pagaments basats en instruments de patrimoni
+53.  Inversions financeres a c/t en parts vincu-lades
+530.  Participacions a c/t en parts  vinculades
+5303. Participacions a c/t, en EG
+5304. Participacions a c/t, en EA
+5305. Participacions a c/t, en APV
+531.  Valors representatius de deu-te a c/t de parts vinculades
+5313. Valors representatius  de deute a c/t d’EG
+5314. Valors representatius  de deute a c/t d’EA
+5315. Valors representatius  de deute a c/t d’APV
+532.   Crèdits a c/t a parts vinculades
+5323. Crèdits a c/t a EG
+5324. Crèdits a c/t a EA
+5325. Crèdits a c/t a APV
+533.  Interessos a c/t de valors representatius de deute  de parts vinculades
+5333. Interessos a c/t de valors representatius de deute d’EG
+5334. Interessos a c/t de valors representatius de deute d’EA
+5335. Interessos a c/t de valors representatius de deute d’APV
+534.  Interessos a c/t de crèdits  a parts vinculades
+5343. Interessos a c/t de crèdits a EG
+5344. Interessos a c/t de crèdits a EA
+5345. Interessos a c/t de crèdits a APV
+535.  Dividend a cobrar d’inver-sions financeres en parts vinculades
+5353. Dividend a cobrar d’EG
+5354. Dividend a cobrar d’EA
+5355. Dividend a cobrar d’APV
+539.  Desemborsaments pendents sobre participacions a c/t  en parts vinculades
+5393. Desemborsaments pen-dents sobre participacions  a c/t en EG
+5394. Desemborsaments  pendents sobre participacions  a c/t en EA
+5395. Desemborsaments  pendents sobre participacions  a c/t en APV 
+54.  Altres inversions financeres a c/t
+540.  Inversions financeres a c/t  en instruments de patrimoni
+541.  Valors representatius  de deute a c/t
+542.  Crèdits a c/t
+5427. Crèdits amb socis per pèrdues a compensar a c/t
+543.  Crèdits a c/t per alienació d’immobilitzat
+544.  Crèdits a c/t al personal
+545.  Dividend a cobrar
+546.  Interessos a c/t de valors representatius de deutes
+547.  Interessos a c/t de crèdits
+548.  Imposicions a c/t
+549.  Desemborsaments pendents sobre participacions en el patrimoni net a c/t
+55.  Altres comptes no bancaris
+550.  Titular de l’explotació
+551.  Compte corrent amb socis  i administradors
+552.  Compte corrent amb altres persones i entitats vinculades
+5523. Compte corrent amb EG
+5524. Compte corrent amb EA
+5525. Compte corrent amb APV
+553.  Comptes corrents en fusions i escissions
+5530. Socis de societat dissolta
+5531. Socis, compte de fusió
+5532. Socis de societat escindida
+5533. Socis, compte d’escissió
+554.  Compte corrent amb unions temporals d’empreses  i comunitats de béns
+555.  Partides pendents d’aplicació
+5551. Rectificació de valoracions
+556.  Desemborsaments exigits sobre participacions en el patrimoni net
+5563. Desemborsaments exigits sobre participacions, EG
+5564. Desemborsaments exigits sobre participacions, EA
+5565. Desemborsaments exigits sobre participacions, APV
+5566. Desemborsaments exigits sobre participacions d’AE
+557.  Dividend actiu a compte
+5571. Remuneració d’aportacions al capital social a compte
+5572. Retorn actiu a compte
+558.  Socis per desemborsaments exigits
+5580. Socis per desemborsa-ments exigits sobre accions  o participacions ordinàries
+5585. Socis per desemborsa-ments exigits sobre accions  o participacions considerades passius financers
+559.  Derivats financers a c/t
+5590. Actius per derivats finan-cers a c/t, cartera de negociació
+5593. Actius per derivats financers a c/t, instruments de cobertura
+5595. Passius per derivats finan-cers a c/t, cartera de negociació
+5598. Passius per derivats finan-cers a c/t, instruments  de cobertura
+56.  Fiances i dipòsits rebuts i constituïts a c/t i ajustos per periodificació
+560.  Fiances rebudes a c/t
+561.  Dipòsits rebuts a c/t
+565.  Fiances constituïdes a c/t
+566.  Dipòsits constituïts a c/t
+567.   Interessos pagats per endavant
+568.   Interessos cobrats per endavant
+569.  Garanties financeres a c/t
+57.  Tresoreria
+570.  Caixa, euros
+571.  Caixa, moneda estrangera
+572.  Bancs i institucions de crèdit c/c a la vista, euros
+573.  Bancs i institucions de crèdit c/c a la vista, moneda estrangera
+574.  Bancs i institucions de crèdit, comptes d’estalvi, euros
+575.  Bancs i institucions de crèdit, comptes d’estalvi, moneda estrangera
+576.  Inversions a c/t de gran liquiditat
+58.  Actius no corrents mantinguts per a la venda i actius  i passius associats
+580.  Immobilitzat
+581.  Inversions amb persones  i entitats vinculades
+582.  Inversions financeres
+583.   Existències, deutors comercials i altres comptes a cobrar
+584.  Altres actius
+585.  Provisions
+586.  Deutes amb característiques especials
+587.  Deutes amb persones  i entitats vinculades
+588.  Creditors comercials i altres comptes a pagar
+589.  Altres passius
+59.  Deteriorament del valor d’inversions financeres a curt  termini i d’actius no corrents mantinguts per a la venda
+593.  Deteriorament de valor  de participacions a c/t  en parts vinculades
+5933. Deteriorament de valor  de participacions a c/t en EG
+5934. Deteriorament de valor  de participacions a c/t en EA
+594.  Deteriorament de valor de valors representatius de deu-te a c/t de parts vinculades
+5943. Deteriorament de valor  de valors representatius de deute a c/t d’EG
+5944. Deteriorament de valor  de valors representatius de deute a c/t d’EA
+5945. Deteriorament de valor  de valors representatius de deute a c/t d’APV
+595.   Deteriorament de valor de crèdits a c/t a parts vinculades
+5953. Deteriorament de valor  de crèdits a c/t a EG
+5954. Deteriorament de valor  de crèdits a c/t a EA
+5955. Deteriorament de valor  de crèdits a c/t a APV
+597.  Deteriorament de valor  de valors representatius  de deute a c/t
+598.  Deteriorament de valor  de crèdits a c/t
+599.   Deteriorament de valor d’actius no corrents mantinguts  per a la venda
+5990. Deteriorament de valor d’immobilitzat no corrent mantin-gut per a la venda
+5991. Deteriorament de valor d’inversions amb persones i entitats vinculades no corrents mantingudes per a la venda
+5992. Deteriorament de valor d’inversions financeres no cor-rents mantingudes per a la venda
+5993. Deteriorament de valor d’existències, deutors comercials i altres comptes a cobrar integrats en un grup alienable mantingut per a la venda
+5994. Deteriorament de valor d’altres actius mantinguts  per a la venda
+6.  COMPRES DE DESPESES
+60.  Compres
+600.  Compres de mercaderies
+6001. Compres de mercaderies adscrites al FEFP
+601.   Compres de matèries primeres
+6011. Compres de matèries primeres adscrites al FEFP
+602.  Compres d’altres aprovisio-naments
+6021. Compres d’altres aprovisi-onaments adscrits al FEFP
+603.  Compres efectuades a socis
+606.  Descomptes sobre compres per pagament immediat
+6060. Descomptes sobre compres per pagament immediat  de mercaderies
+6061. Descomptes sobre compres per pagament immediat  de primeres matèries
+6062. Descomptes sobre compres per pagament immediat d’altres aprovisionaments
+6063. Descomptes sobre compres per pagament a socis
+607.  Treballs realitzats per AE
+608.  Devolucions de compres  i operacions similars
+6080. Devolucions de compres de mercaderies
+6081. Devolucions de compres de primeres matèries
+6082. Devolucions de compres d’altres aprovisionaments
+6083. Devolucions de compres efectuades a socis
+609.  Ràpels per compres
+6090. Ràpels per compres  de mercaderies
+6091. Ràpels per compres  de primeres matèries
+6092. Ràpels per compres d’altres aprovisionaments
+6093. Ràpels per compres  efectuades  a socis
+61.  Variació d’existències
+610.  Variació d’existències  de mercaderies
+611.  Variació d’existències  de primeres matèries
+612.  Variació d’existències  d’altres aprovisionaments
+617.  Variació d’existències  adquirides a socis
+62.  Serveis exteriors
+620.  Despeses en recerca i desen-volupament de l’exercici
+6201. Despeses en recerca i desenvolupament de l’exer-cici adscrites al FEFP
+621.  Arrendaments i cànons
+622.  Reparacions i conservació
+6221. Reparacions i conser-vació adscrites al FEFP
+623.  Serveis de professionals independents
+6231. Serveis de professionals independents adscrits al FEFP
+624.  Transports
+625.  Primes d’assegurances
+626.  Serveis bancaris i similars
+627.  Publicitat, propaganda  i relacions públiques
+628.  Subministraments
+629.  Altres serveis
+63.  Tributs
+630.  Impost sobre beneficis
+6300. Impost corrent
+6301. Impost diferit
+631.  Altres tributs
+633.  Ajustos negatius en la  imposició sobre beneficis
+634.  Ajustos negatius en la  imposició indirecta
+6341. Ajustos negatius en IVA d’actiu corrent
+6342. Ajustos negatius en IVA d’inversions
+636.  Devolució d’impostos
+638.  Ajustos positius en la  imposició sobre beneficis
+639.  Ajustos positius en la  imposició indirecta
+6391. Ajustos positius en IVA d’actiu corrent
+6392. Ajustos positius en IVA d’inversions
+64.  Despeses de personal
+640.  Sous i salaris
+641.  Indemnitzacions
+642.  Seguretat Social a càrrec  de l’empresa
+643.  Retribucions a l/t mitjançant sistemes d’aportació definida
+644.  Retribucions a l/t mitjançant sistemes de prestació definida
+6440. Contribucions anuals
+6442. Altres costos
+645.  Retribucions al personal mitjançant instruments  de patrimoni
+6450. Retribucions al personal liquidades amb instruments  de patrimoni
+6457. Retribucions al personal liquidats en efectiu basat  en instruments de patrimoni
+647.  Retribució als socis  treballadors
+649.  Altres despeses socials
+65.  Altres despeses de gestió i específiques de la cooperativa
+650.  Pèrdues de crèdits comerci-als incobrables
+651.  Resultats d’operacions  en comú
+6510. Benefici transferit (gestor)
+6511. Pèrdua suportada (partícip o associat no gestor)
+654.  Despeses afectes al FEFP
+6542. Serveis exteriors afectes al FEFP
+656.  Interessos de les aportacions al capital social i altres fons
+657.  Dotació al FEFP
+659.  Altres pèrdues en gestió corrent
+66.  Despeses financeres
+660.  Despeses financeres per actualització de provisions
+661.  Interessos d’obligacions  i bons
+6610. Interessos d’obligacions  i bons a l/t, EG
+6611. Interessos d’obligacions  i bons a l/t, EA
+6612. Interessos d’obligacions  i bons a l/t, APV
+6613. Interessos d’obligacions  i bons a l/t, AE
+6615. Interessos d’obligacions  i bons a c/t, EG
+6616. Interessos d’obligacions  i bons a c/t, EA
+6617. Interessos d’obligacions  i bons a c/t, APV
+6618. Interessos d’obligacions  i bons a c/t, AE
+662.  Interessos de deutes
+6620. Interessos de deutes, EG
+6621. Interessos de deutes, EA
+6622. Interessos de deutes, APV
+6623. Interessos de deutes amb entitats de crèdit
+6624. Interessos de deutes, AE
+663.  Pèrdues per valoració  d’instruments financers  pel seu valor raonable
+6630. Pèrdues de cartera  de negociació
+6631. Pèrdues de designats  per l’empresa
+6632. Pèrdues de disponibles  per a la venda
+6633. Pèrdues d’instruments  de cobertura
+664.   Despeses per dividends d’accions o participacions con-siderades passius financers
+6640. Dividends de passius, EG
+6641. Dividends de passius, EA
+6642. Dividends de passius, APV
+6643. Dividends de passius, AE
+665.  Interessos per descompte d’efectes i operacions  de facturatge
+6650. Interessos per descompte d’efectes en entitats de crèdit del grup
+6651. Interessos per descompte d’efectes en entitats de crèdit associades
+6652. Interessos per descompte d’efectes en altres entitats  de crèdit vinculades
+6653. Interessos per descompte d’efectes en altres entitats de crèdit
+6654. Interessos per operacions de facturatge amb entitats  de crèdit del grup
+6655. Interessos per operacions de facturatge amb entitats  de crèdit associades
+6656. Interessos per operacions de facturatge amb altres entitats de crèdit vinculades
+6657. Interessos per operacions de facturatge amb altres entitats de crèdit
+666.   Pèrdues en participacions i valors representatius de deute 
+6660. Pèrdues en valors repre-sentatius de deute a l/t, EG
+6661. Pèrdues en valors repre-sentatius de deute a l/t, EA
+6662. Pèrdues en valors repre-sentatius de deute a l/t, APV
+6663. Pèrdues en participacions i valors representatius de deute a l/t, AE
+6665. Pèrdues en participacions i valors representatius de deute a c/t, EG
+6666. Pèrdues en participacions i valors representatius de deute a c/t, EA
+6667. Pèrdues en valors repre-sentatius de deute a c/t, APV
+6668. Pèrdues en valors repre-sentatius de deute a c/t, AE 
+667.  Pèrdues de crèdits no comer-cials
+6670. Pèrdues de crèdits a l/t, EG
+6671. Pèrdues de crèdits a l/t, EA
+6672. Pèrdues de crèdits a l/t, APV
+6673. Pèrdues de crèdits a l/t, AE
+6675. Pèrdues de crèdits a c/t, EG
+6676. Pèrdues de crèdits a c/t, EA
+6677. Pèrdues de crèdits a c/t, APV
+6678. Pèrdues de crèdits a c/t, AE 
+668.  Diferències negatives  de canvi
+669.  Altres despeses financeres
+67.  Pèrdues procedents d’actius no corrents i despeses excepcionals
+670.  Pèrdues procedents  de l’immobilitzat intangible
+671.  Pèrdues procedents  de l’immobilitzat material
+672.  Pèrdues procedents de les inversions immobiliàries
+673.  Pèrdues procedents  de participacions a l/t  en parts vinculades
+6733. Pèrdues procedents  de participacions a l/t, EG
+6734. Pèrdues procedents  de participacions a l/t, EA
+6735. Pèrdues procedents  de participacions a l/t,  APV
+675.  Pèrdues per operacions  amb obligacions pròpies
+678.  Despeses excepcionals
+68.  Dotacions per a amortitzacions
+680.  Amortització de l’immobilit-zat intangible
+681.  Amortització de l’immobilit-zat material
+68111. Amortització de construc-cions adscrites al FEFP
+68121. Amortització d’instal·lacions tècniques adscrites al FEFP
+68131. Amortització de maquinà-ria adscrita al FEFP
+68141. Amortització d’utillatge adscrit al FEFP
+68151. Amortització d’altres instal·lacions adscrites al FEFP
+68161. Amortització de mobiliari adscrit al FEFP
+68171. Amortització d’equips  per a processos d’informació adscrits al FEFP
+68181. Amortització d’elements de transport  adscrits al FEFP
+68191. Amortització d’altre immobilitzat adscrit al FEFP
+682.   Amortització de les inversions immobiliàries
+69.  Pèrdues per dete-riorament i altres dotacions
+690.  Pèrdues per deteriorament de l’immobilitzat intangible
+691.  Pèrdues per deteriorament de l’immobilitzat material
+692.  Pèrdues per deteriorament de les inversions immobiliàries
+693.  Pèrdues per deteriorament d’existències
+6930. Pèrdues per deteriorament de productes acabats i en curs de fabricació
+6931. Pèrdues per deteriorament de mercaderies
+6932. Pèrdues per deteriorament de primeres matèries
+6933. Pèrdues per deteriorament d’altres aprovisionaments
+694.  Pèrdues per deteriorament de crèdits per operacions comercials
+695.  Dotació a la provisió  per operacions comercials
+6954. Dotació a la provisió  per contractes onerosos
+6959. Dotació a la provisió  per a altres operacions comercials
+696.  Pèrdues per deteriorament de participacions i valors representatius de deute a l/t
+6960. Pèrdues per deteriorament de participacions en instruments de patrimoni net a l/t, EG
+6961. Pèrdues per deteriorament de participacions en instruments de patrimoni net a l/t, EA
+6962. Pèrdues per deteriorament de participacions en instruments de patrimoni net a l/t, APV
+6963. Pèrdues per deteriorament de participacions en instruments de patrimoni net a l/t, AE
+6965. Pèrdues per deteriorament en valors representatius de deute a l/t, EG
+6966. Pèrdues per deteriorament en valors representatius de deute a l/t, EA
+6967. Pèrdues per deteriorament en valors representatius de deute a l/t, APV
+6968. Pèrdues per deteriorament en valors representatius de deute a l/t, d’AE
+697.  Pèrdues per deteriorament de crèdits a l/t
+6970. Pèrdues per deteriorament de crèdits a l/t, EG
+6971. Pèrdues per deteriorament de crèdits a l/t, EA
+6972. Pèrdues per deteriorament de crèdits a l/t, APV
+6973. Pèrdues per deteriorament de crèdits a l/t, AE
+698.  Pèrdues per deteriorament de participacions i valors representatius de deute a c/t
+6980. Pèrdues per deteriorament de participacions en instruments de patrimoni net a c/t, EG
+6981. Pèrdues per deteriorament de participacions en instruments de patrimoni net a c/t, EA
+6985. Pèrdues per deteriorament en valors representatius de deute a c/t, EG
+6986. Pèrdues per deteriorament en valors representatius de deute a c/t, EA
+6987. Pèrdues per deteriorament en valors representatius de deute a c/t, APV
+6988. Pèrdues per deteriorament en valors representatius de deute a c/t, d’AE
+699.  Pèrdues per deteriorament de crèdits a c/t
+6990. Pèrdues per deteriorament de crèdits a c/t, EG
+6991. Pèrdues per deteriorament de crèdits a c/t, EA
+6992. Pèrdues per deteriorament de crèdits a c/t, APV
+6993. Pèrdues per deteriorament de crèdits a c/t, AE
+7.  VENDES I INGRESSOS
+70.  Vendes de mercaderi-es, de producció prò-pia, de serveis, etc.
+700.  Vendes de mercaderies
+701.  Vendes de productes acabats
+702.  Vendes de productes  semiacabats
+703.  Vendes de subproductes  i residus
+704.   Vendes d’envasos i embalatges
+705.  Prestacions de serveis
+706.  Descomptes sobre vendes per pagament immediat
+7060. Descomptes sobre vendes per pagament immediat  de mercaderies
+7061. Descomptes sobre vendes per pagament immediat  de productes acabats
+7062. Descomptes sobre vendes per pagament immediat  de productes semiacabats
+7063. Descomptes sobre vendes per pagament immediat  de subproductes i residus
+708.  Devolucions de vendes  i operacions similars
+7080. Devolucions de vendes  de mercaderies
+7081. Devolucions de vendes  de productes acabats
+7082. Devolucions de vendes  de productes semiacabats
+7083. Devolucions de vendes  de subproductes i residus
+7084. Devolucions de vendes d’envasos i embalatges
+709.  Ràpels sobre vendes
+7090. Ràpels sobre vendes  de mercaderies
+7091. Ràpels sobre vendes  de productes acabats
+7092. Ràpels sobre vendes  de productes semiacabats
+7093. Ràpels sobre vendes  de subproductes i residus
+7094. Ràpels sobre vendes d’envasos i embalatges
+71.  Variació d’existències
+710.  Variació d’existències  de productes en curs
+711.  Variació d’existències  de productes semiacabats
+712.  Variació d’existències  de productes acabats
+713.  Variació d’existències  de subproductes, residus  i materials recuperats
+73.  Treballs realitzats per a l’empresa
+730.  Treballs realitzats per a l’immobilitzat intangible
+731.  Treballs realitzats per a l’immobilitzat material
+732.  Treballs realitzats en inversi-ons immobiliàries
+733.  Treballs realitzats per a l’im-mobilitzat material en curs
+74.  Subvencions,  donacions i llegats
+740.  Subvencions, donacions  i llegats a l’explotació
+746.  Subvencions, donacions  i llegats de capital transferits al resultat de l’exercici
+747.  Altres subvencions, dona-cions i llegats transferits al resultat de l’exercici
+75.  Altres ingressos  de gestió
+751.   Resultats d’operacions en comú
+7510. Pèrdua transferida (gestor)
+7511. Benefici atribuït (partícip  o associat no gestor)
+752.  Ingressos per arrendaments
+753.  Ingressos de propietat indus-trial cedida en explotació
+754.  Ingressos per comissions
+755.  Ingressos per serveis  al personal
+756.  Ingressos per operacions amb socis
+7560. Ingressos per serveis diversos amb socis
+757.  Ingressos imputables al FEFP
+7570. Sancions imposades  a socis imputables al FEFP
+7571. Subvencions imputables al FEFP
+7572. Donacions imputables al FEFP
+7573. Altres ingressos imputables al FEFP
+759.   Ingressos per serveis diversos
+76.  Ingressos financers
+760.  Ingressos de participacions en instruments de patrimoni
+7600. Ingressos de participacions en instruments de patrimoni, EG
+7601. Ingressos de participacions en instruments de patrimoni, EA
+7602. Ingressos de participacions en instruments de patrimoni, APV
+7603. Ingressos de participacions en instruments de patrimoni, AE
+761.  Ingressos de valors  representatius de deute
+7610. Ingressos de valors  representatius de deute, EG
+7611. Ingressos de valors  representatius de deute, EA
+7612. Ingressos de valors  representatius de deute, APV
+7613. Ingressos de valors  representatius de deute, AE
+762.  Ingressos de crèdits
+7620. Ingressos de crèdits a l/t
+76200. Ingressos de crèdits a l/t, EG
+76201. Ingressos de crèdits  a l/t, EA
+76202. Ingressos de crèdits  a l/t, APV
+76203. Ingressos de crèdits  a l/t, AE
+7621. Ingressos de crèdits a c/t
+76210. Ingressos  de crèdits a c/t, EG
+76211. Ingressos  de crèdits a c/t, EA
+76212. Ingressos  de crèdits a c/t, APV
+76213. Ingressos  de crèdits a c/t, AE
+763.  Beneficis per valoració d’instruments financers  pel seu valor raonable
+7630. Beneficis de cartera  de negociació
+7631. Beneficis de designats  per l’empresa
+7632. Beneficis de disponibles per a la venda
+7633. Beneficis d’instruments  de cobertura
+766.  Beneficis en participacions i valors representatius de deute
+7660. Beneficis en valors repre-sentatius de deute a l/t, EG
+7661. Beneficis en valors repre-sentatius de deute a l/t, EA
+7662. Beneficis en valors repre-sentatius de deute a l/t, APV
+7663. Beneficis en participacions i valors representatius de deute a l/t, AE
+7665. Beneficis en participacions i valors representatius de deute a c/t, EG
+7666. Beneficis en participacions i valors representatius de deute a c/t, EA
+7667. Beneficis en valors repre-sentatius de deute a c/t, APV
+7668. Beneficis en valors repre-sentatius de deute a c/t, AE
+767.  Ingressos d’actius afectes  i de drets de reemborsament relatius a retribucions a l/t
+768.  Diferències positives  de canvi
+769. Altres ingressos financers
+77.  Beneficis procedents d’actius no corrents i ingressos excepcionals
+770.  Beneficis procedents  de l’immobilitzat intangible
+771.  Beneficis procedents  de l’immobilitzat material
+772.  Beneficis procedents de les inversions immobiliàries
+773.  Beneficis procedents  de participacions a l/t en parts vinculades
+7733. Beneficis procedents  de participacions a l/t, EG
+7734. Beneficis procedents  de participacions a l/t, EA
+7735. Beneficis procedents  de participacions a l/t, APV
+774.  Diferència negativa en com-binacions de negocis
+775.  Beneficis per operacions amb obligacions pròpies
+778.  Ingressos excepcionals
+79.  Excessos i aplicacions de provisions  i de pèrdues per  deteriorament
+790.  Reversió del deteriorament de l’immobilitzat intangible
+791.  Reversió del deteriorament de l’immobilitzat material
+792.  Reversió del deteriorament de les inversions immobiliàries
+793.  Reversió del deteriorament d’existències 
+7930. Reversió del deteriorament de productes acabats i en curs de fabricació
+7931. Reversió del deteriorament de mercaderies
+7932. Reversió del deteriorament de primeres matèries
+7933. Reversió del deteriorament d’altres aprovisionaments
+794.  Reversió del deteriorament de crèdits per operacions comercials
+795.  Excés de provisions
+7950. Excés de provisió  per retribucions al personal
+7951. Excés de provisió  per a impostos
+7952. Excés de provisió  per a altres responsabilitats
+7954. Excés de provisió  per operacions comercials
+79544. Excés de provisió  per contractes onerosos
+79549. Excés de provisió  per a altres operacions comercials
+7955. Excés de provisió  per a actuacions mediambientals
+7956. Excés de provisió  per a reestructuracions
+7957. Excés de provisió per transaccions amb pagaments ba-sats en instruments de patrimoni
+796.  Reversió del deteriorament de participacions i valors representatius de deute a l/t
+7960. Reversió del deteriorament de participacions en instruments de patrimoni net a l/t, EG
+7961. Reversió del deteriorament de participacions en instruments de patrimoni net a l/t, EA
+7965. Reversió del deteriorament de valors representatius de deute a l/t, EG
+7966. Reversió del deteriorament de valors representatius de deute a l/t, EA
+7967. Reversió del deteriorament de valors representatius de deute a l/t, APV
+7968. Reversió del deteriorament de valors representatius de deute a l/t, AE
+797.  Reversió del deteriorament de crèdits a l/t
+7970. Reversió del deteriorament de crèdits a l/t, EG
+7971. Reversió del deteriorament de crèdits a l/t, EA
+7972. Reversió del deteriorament de crèdits a l/t, APV
+7973. Reversió del deteriorament de crèdits a l/t, AE
+798.  Reversió del deteriorament de participacions i valors representatius de deute a c/t
+7980. Reversió del deteriorament de participacions en instruments de patrimoni net a c/t, EG
+7981. Reversió del deteriorament de participacions en instruments de patrimoni net a c/t, EA
+7985. Reversió del deteriorament en valors representatius de deute a c/t, EG
+7986. Reversió del deteriorament en valors representatius de deute a c/t, EA
+7987. Reversió del deteriorament en valors representatius de deute a c/t, APV
+7988. Reversió del deteriorament en valors representatius de deute a c/t, AE
+799.  Reversió del deteriorament de crèdits a c/t
+7990. Reversió del deteriorament de crèdits a c/t, EG
+7991. Reversió del deteriorament de crèdits a c/t, EA
+7992. Reversió del deteriorament de crèdits a c/t, APV
+7993. Reversió del deteriorament de crèdits a c/t, AE
